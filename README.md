@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-green.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 **Advanced Professional Stock Analysis Platform powered by Groq AI + Agno Agentic Framework**
 
@@ -384,11 +384,7 @@ Improvements and suggestions are welcome!
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License - see LICENSE file for details.
-
----
 
 ## 📞 Support
 
@@ -449,10 +445,6 @@ Built with:
 
 ## 🎉 Happy Investing! 
 
-Made with ❤️ for stock analysis enthusiasts
+Made by Ankit kumar for stock analysis enthusiasts
 
----
 
-**Last Updated:** April 2026
-**Status:** Active Development
-**Maintainer:** AI Stock Analyst Team
